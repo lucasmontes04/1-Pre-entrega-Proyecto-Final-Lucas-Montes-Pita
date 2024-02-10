@@ -1,0 +1,32 @@
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\appsettings.json
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.exe
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.deps.json
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.runtimeconfig.json
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.dll
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.pdb
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\staticwebassets\msbuild.1° Pre entrega Proyecto Final Lucas Montes Pita.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\staticwebassets\msbuild.build.1° Pre entrega Proyecto Final Lucas Montes Pita.props
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.1° Pre entrega Proyecto Final Lucas Montes Pita.props
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.1° Pre entrega Proyecto Final Lucas Montes Pita.props
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\scopedcss\bundle\1° Pre entrega Proyecto Final Lucas Montes Pita.styles.css
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.csproj.CopyComplete
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.dll
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\refint\1° Pre entrega Proyecto Final Lucas Montes Pita.dll
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.pdb
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\1° Pre entrega Proyecto Final Lucas Montes Pita.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\1° Pre entrega Proyecto Final Lucas Montes Pita\obj\Debug\net6.0\ref\1° Pre entrega Proyecto Final Lucas Montes Pita.dll
